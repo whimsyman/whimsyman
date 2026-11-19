@@ -6,8 +6,8 @@
 
 <p>I like coding and creating cool software, from low-level C++ libraries to cozy desktop apps.</p>
 
-<a href="https://github.com/vlonexti?tab=followers"><img src="https://img.shields.io/github/followers/vlonexti?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=ff3b3f&labelColor=0b0204&color=ff3b3f" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=vlonexti&label=PROFILE%20VIEWS&color=ff3b3f&style=for-the-badge" alt="Profile views"/>
+<a href="https://github.com/whimsyman?tab=followers"><img src="https://img.shields.io/github/followers/whimsyman?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=ff3b3f&labelColor=0b0204&color=ff3b3f" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=whimsyman&label=PROFILE%20VIEWS&color=ff3b3f&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -18,10 +18,10 @@
 | Project | What it does |
 |:--|:--|
 | 🪐 **[Xenon](https://xenon.justloofy.dev)** | A place to learn coding, step by step. *(formerly Cairn)* |
-| 🧩 **[Kore-Library](https://github.com/vlonexti/Kore-Library)** | A C++ library family split into kernel ([KKore](https://github.com/vlonexti/KKore)), external ([EKore](https://github.com/vlonexti/EKore)) and internal ([IKore](https://github.com/vlonexti/IKore)) modules. |
-| 🌙 **[Nora](https://github.com/vlonexti/Nora)** | No one remains alone. |
-| 🧾 **[invoice-api](https://github.com/vlonexti/invoice-api)** | An API that generates invoices for my business. |
-| ☕ **Cozy desktop apps** | Calm little apps: [Movies](https://github.com/vlonexti/Movies), [Weather](https://github.com/vlonexti/Weather), [Calendar](https://github.com/vlonexti/Calender) and [Timer](https://github.com/vlonexti/Timer). |
+| 🧩 **[Kore-Library](https://github.com/whimsyman/Kore-Library)** | A C++ library family split into kernel ([KKore](https://github.com/whimsyman/KKore)), external ([EKore](https://github.com/whimsyman/EKore)) and internal ([IKore](https://github.com/whimsyman/IKore)) modules. |
+| 🌙 **[Nora](https://github.com/whimsyman/Nora)** | No one remains alone. |
+| 🧾 **[invoice-api](https://github.com/whimsyman/invoice-api)** | An API that generates invoices for my business. |
+| ☕ **Cozy desktop apps** | Calm little apps: [Movies](https://github.com/whimsyman/Movies), [Weather](https://github.com/whimsyman/Weather), [Calendar](https://github.com/whimsyman/Calender) and [Timer](https://github.com/whimsyman/Timer). |
 
 ## `> ./stack`
 
@@ -43,10 +43,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vlonexti&show_icons=true&hide_border=true&bg_color=0b0204&title_color=ff3b3f&icon_color=ff3b3f&text_color=e8e8e8&ring_color=ff3b3f&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlonexti&layout=compact&hide_border=true&bg_color=0b0204&title_color=ff3b3f&text_color=e8e8e8&langs_count=6" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=whimsyman&show_icons=true&hide_border=true&bg_color=0b0204&title_color=ff3b3f&icon_color=ff3b3f&text_color=e8e8e8&ring_color=ff3b3f&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whimsyman&layout=compact&hide_border=true&bg_color=0b0204&title_color=ff3b3f&text_color=e8e8e8&langs_count=6" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=vlonexti&hide_border=true&background=0b0204&ring=ff3b3f&fire=ff3b3f&stroke=3a0a10&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3b3f&sideLabels=ff3b3f&dates=9a8a8c" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com?user=whimsyman&hide_border=true&background=0b0204&ring=ff3b3f&fire=ff3b3f&stroke=3a0a10&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3b3f&sideLabels=ff3b3f&dates=9a8a8c" alt="Streak stats"/>
 
 </div>
 
