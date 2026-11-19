@@ -17,7 +17,7 @@
 
 | Project | What it does |
 |:--|:--|
-| 🧭 **[Cairn](https://github.com/vlonexti/Cairn)** | A place to learn coding, step by step. |
+| 🪐 **[Xenon](https://xenon.justloofy.dev)** | A place to learn coding, step by step. *(formerly Cairn)* |
 | 🧩 **[Kore-Library](https://github.com/vlonexti/Kore-Library)** | A C++ library family split into kernel ([KKore](https://github.com/vlonexti/KKore)), external ([EKore](https://github.com/vlonexti/EKore)) and internal ([IKore](https://github.com/vlonexti/IKore)) modules. |
 | 🌙 **[Nora](https://github.com/vlonexti/Nora)** | No one remains alone. |
 | 🧾 **[invoice-api](https://github.com/vlonexti/invoice-api)** | An API that generates invoices for my business. |
